@@ -30,7 +30,7 @@ Test procedure will loop through each test sending out the entered voltage in 1~
 
 ## Authors
 
-* **Frederic Chen** - *Test Succeed* 
+* **Frederic Chen** - *Test Succeeded* 
 
 ## License
 
